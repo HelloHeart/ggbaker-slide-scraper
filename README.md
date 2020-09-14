@@ -1,1 +1,1 @@
-# CMPT-383-slide-scraper
+# ggbaker-slide-scraper
