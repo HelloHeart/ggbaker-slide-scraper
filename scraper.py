@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from time import sleep
-# img2pdf
 from PIL import Image
 from os import mkdir, path
 from shutil import rmtree
